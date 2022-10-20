@@ -3,4 +3,5 @@ This is a simple to do app with React Native
 If you wnat to rul you should run this code first.
 <br>
 `npm install`
+<br>
 then you good to go.
